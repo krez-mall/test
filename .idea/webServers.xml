@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="19f026a7-dc3b-4e11-adc5-da8a32daee65" name="superhosting" url="http://spd.gadinov.com">
+        <fileTransfer host="ftp.gavadinov.com" port="1022" rootFolder="/home/gavadino/public_html/spd" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1022" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
